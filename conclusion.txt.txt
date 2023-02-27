@@ -1,2 +1,6 @@
 Hello World!
+<<<<<<< HEAD
 This is Soham Mirikar
+=======
+This is Mirikar
+>>>>>>> d6aaf2c0f7678b5dc2b816e005e602fc7a8d46c4
